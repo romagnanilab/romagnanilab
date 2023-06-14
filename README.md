@@ -11,8 +11,9 @@ You can read more about us [here](https://www.drfz.de/en/uber-uns/koepfe/prof-dr
 
 ## Core lab primary research publications
 
-Rückert, Timo, et al. **Clonal expansion and epigenetic inheritance of long-lasting NK cell memory.** Nature Immunology 23.11 (2022): 1551-1563 https://doi.org/10.1038/s41590-022-01327-7
-
+Rückert, Timo, et al. **Clonal expansion and epigenetic inheritance of long-lasting NK cell memory.** Nature Immunology 23.11 (2022): 1551-1563 https://doi.org/10.1038/s41590-022-01327-7  
+--> Find analysis scripts [here](https://github.com/romagnanilab/clonal_nk_analysis)!  
+ 
 Stehle, Christina, et al. **T-bet and RORα control lymph node formation by regulating embryonic innate lymphoid cell differentiation.** Nature Immunology 22.10 (2021): 1231-1244 https://doi.org/10.1038/s41590-021-01029-6
 
 Hernández, Daniela Carolina, et al. **An *in vitro* platform supports generation of human innate lymphoid cells from CD34+ hematopoietic progenitors that recapitulate *ex vivo* identity.** Immunity 54.10 (2021): 2417-2432 https://doi.org/10.1016/j.immuni.2021.07.019
