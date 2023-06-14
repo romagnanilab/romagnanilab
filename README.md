@@ -1,7 +1,7 @@
 # Romagnani Lab, DRFZ Berlin
 Led by Chiara Romagnani, we are a group of biologists studying the development and role of Innate Lymphoid Cells (ILCs) and Haematopoietic Stem Precursor Cells (HSPCs).
 
-You can read more about us [here](https://www.drfz.de/en/uber-uns/koepfe/prof-dr-chiara-romagnani/). Below is some of our recent research output!
+You can read more about us [here](https://www.drfz.de/en/forschung/pb1/ag/angeborene-immunitaet/). Below is some of our recent research output!
 
 
 <a href="mailto:romagnani@drfz.de"><img src="https://github.com/dy-lin/logos/blob/master/web/email-icon.svg" alt="romagnani@drfz.de" title="romagnani@drfz.de" width="32" height="32"></a>&nbsp;&nbsp;
